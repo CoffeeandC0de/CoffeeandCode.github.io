@@ -1,0 +1,188 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.body
+{
+    font-family: sans-serif;
+    background-color: #f5f5f0;
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image: linear-gradient(to right, #fcfcfa,#f5f5d9);
+    padding: 0 ; important; 
+} 
+.navbar-brand
+{
+    font-weight: 600;
+}
+
+
+<!---------------------banner-section------------------------->
+
+#banner
+{
+        background-image: linear-gradient(to left);
+        padding-top: 5%;
+        background-size: 100%
+}
+
+.wall
+{
+    
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;;
+    padding-top: 8%;
+    opacity: 0.1;
+    background-size: 100%
+    
+}
+
+.promo-title
+{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 100;
+}
+.para_one
+{
+    padding-top: 6%;
+    font-family: 'Calibri';font-size: 15px;
+    line-height: 2
+
+}
+.para_two
+{
+    padding-top: 6%;
+    font-family: 'Calibri';font-size: 15px;
+    line-height: 2  
+}
+.para_three
+{
+    padding-top: 6%;
+    font-family: 'Calibri';font-size: 15px;
+    line-height: 2
+}
+.para_four
+{
+    padding-top: 6%;
+    font-family: 'Calibri';font-size: 15px;
+    line-height: 2 
+}
+.para_five
+{
+    padding-top: 6%;
+    font-family: 'Calibri';font-size: 15px;
+    line-height: 2
+}
+.languages
+{
+    width: 400px;
+    margin: 100px;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;;
+    padding-top: 4%;
+    opacity: 1;
+    background-size: 100%
+}
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+
+.coffee_code
+{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 100;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    
+}
+
+
+.clean
+{
+    width: 400px;
+    margin: 100px;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;;
+    padding-top: 4%;
+    padding-bottom: 10%;
+    opacity: 0.6;
+    background-size: 100%
+}
+
+.projects
+{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 100;
+    padding-top: 6%;
+    padding-bottom: 6%; 
+}
+
+.ide
+{
+    
+    margin: 100px;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;;
+    padding-top: 4%;
+    padding-bottom: 10%;
+    opacity: 0.3;
+    background-size: 100% 
+    margin-left: auto;
+    margin-right: auto;
+     
+}
+.cloud_title
+{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 100;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+
+.cloud
+{
+    width: 400px;
+    margin: 100px;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;;
+    padding-top: 4%;
+    opacity: 0.6;
+    background-size: 100%
+}
+
+.contact
+{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 100;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
